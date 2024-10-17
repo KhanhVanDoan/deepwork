@@ -51,32 +51,7 @@ owner:
   bio: "This is the place I keep notes of what I learned "
   email:khanhvandoan794322@gmail.com
   disqus-shortname:
-  twitter:
-  facebook:
-  google:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: Funny_Cloudy
-  stackoverflow:
-  linkedin: Khánh Vân Doãn
-  xing:
-  instagram: 
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
-  youtube:
-  soundcloud:
-  weibo:
-  flickr:
-  codepen:
-  telegram:
-  goodreads: tvhoang
+  
 
 exclude:
   - LICENSE
