@@ -1,4 +1,4 @@
-# Thien Hoang's personal blog
+# Funny Cloudy blog
 
 ## Technology used
 
