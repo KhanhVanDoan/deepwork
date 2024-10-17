@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Thien Hoang
-email: thienvhoang99@gmail.com
+title: Van Khanh Doan
+email: ..............
 description: Blog
-url: https://www.tvhoang.com # the base hostname & protocol for your site
-keywords: ["Programming", "Algorithm", "Mathematics"]
+url: https://khanhvandoan.github.io/deepwork/ # the base hostname & protocol for your site
+keywords: ["Programming",  "Mathematics"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone: "Asia/Ho_Chi_Minh"
+timezone: "Asia/DaNang"
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
@@ -43,12 +43,12 @@ kramdown:
 ####################################
 #
 owner:
-  vorname: Thien
-  familienname: Hoang
-  name: Thien Hoang
-  avatar: avatar.png
-  job: "Software Engineer"
-  bio: "This is the place I keep notes of what I learned and what I accomplished"
+  vorname: van Khanh
+  familienname: Doan
+  name: Khanh
+  avatar: avatar1.png
+  job: "Power System Engineer"
+  bio: "This is the place I keep notes of what I learned "
   email: thienvhoang99@gmail.com
   disqus-shortname:
   twitter:
