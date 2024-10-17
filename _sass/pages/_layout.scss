@@ -64,25 +64,25 @@
         overflow: hidden;
     }
 }
-.social-links {
-  margin-top: 0.5em;
-  ul {
-    margin: 0;
-    padding: 0;
-    li {
-      list-style: none;
-      display: inline-block;
-      margin-left: 1em;
-      a.social-link-item {
-        color: $secondary;
-        &:hover,
-        &:focus {
-          color: lighten($secondary, 14%);
-        }
-      }
-    }
-  }
-}
+// .social-links {
+//   margin-top: 0.5em;
+//   ul {
+//     margin: 0;
+//     padding: 0;
+//     li {
+//       list-style: none;
+//       display: inline-block;
+//       margin-left: 1em;
+//       a.social-link-item {
+//         color: $secondary;
+//         &:hover,
+//         &:focus {
+//           color: lighten($secondary, 14%);
+//         }
+//       }
+//     }
+//   }
+// }
 .nav-list {
   margin: 0;
   padding: 0;
