@@ -1,0 +1,14 @@
+_site
+.sass-cache
+_config.yml
+_drafts
+.ruby-version
+.DS_Store
+.vscode
+.jekyll-cache
+MathJax
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz

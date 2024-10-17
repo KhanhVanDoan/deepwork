@@ -1,0 +1,90 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Thien Hoang
+email: thienvhoang99@gmail.com
+description: Blog
+url: https://www.tvhoang.com # the base hostname & protocol for your site
+keywords: ["Programming", "Algorithm", "Mathematics"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone: "Asia/Ho_Chi_Minh"
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+permalink: articles/:year/:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  vorname: Thien
+  familienname: Hoang
+  name: Thien Hoang
+  avatar: avatar.png
+  job: "Software Engineer"
+  bio: "This is the place I keep notes of what I learned and what I accomplished"
+  email: thienvhoang99@gmail.com
+  disqus-shortname:
+  twitter:
+  facebook:
+  google:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: hoangvanthien
+  stackoverflow:
+  linkedin: tvhoang
+  xing:
+  instagram: admirable.mushroom
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  youtube:
+  soundcloud:
+  weibo:
+  flickr:
+  codepen:
+  telegram:
+  goodreads: tvhoang
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
+
